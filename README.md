@@ -29,10 +29,10 @@ graph TD
     classDef phase3 fill:#fff3e0,stroke:#fb8c00,stroke-width:2px,color:#e65100;
     classDef phase4 fill:#f3e5f5,stroke:#8e24aa,stroke-width:2px,color:#4a148c;
 
-    P1[Phase 1: Python Fundamentals<br>Weeks 1 - 4 | Days 1 - 28]:::phase1
-    P2[Phase 2: Intermediate & Core Concepts<br>Weeks 5 - 8 | Days 29 - 56]:::phase2
-    P3[Phase 3: Web, DBs & Engineering<br>Weeks 9 - 12 | Days 57 - 84]:::phase3
-    P4[Phase 4: Capstone & Portfolio<br>Week 13 | Days 85 - 90]:::phase4
+    P1["Phase 1: Python Fundamentals<br>Weeks 1 - 4 | Days 1 - 28"]:::phase1
+    P2["Phase 2: Intermediate & Core Concepts<br>Weeks 5 - 8 | Days 29 - 56"]:::phase2
+    P3["Phase 3: Web, DBs & Engineering<br>Weeks 9 - 12 | Days 57 - 84"]:::phase3
+    P4["Phase 4: Capstone & Portfolio<br>Week 13 | Days 85 - 90"]:::phase4
 
     P1 --> P2
     P2 --> P3
