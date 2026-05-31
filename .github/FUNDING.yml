@@ -9,3 +9,9 @@
 #
 # (SadaPay supports instant local transfers from any banking app in Pakistan, 
 # as well as direct incoming international wire transfers from abroad!)
+
+# --- Active Sponsor Button Configurations ---
+# GitHub requires at least one active, uncommented custom link to display the native "Sponsor" button.
+# This link points directly to your SadaPay support details page inside the repository:
+
+custom: ["https://github.com/yasirusman85/90-Days-to-Python/blob/main/.github/SUPPORT.md"]
